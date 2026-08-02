@@ -13,6 +13,11 @@ creat file main insaid src
 
 Initialize git and push the project to github
 
+![git](screenshots/ScreenshotFORgitInitialize.png)
+
+![git](screenshots/ScreenshotforPUSH.png)
+
+
 
 
 
